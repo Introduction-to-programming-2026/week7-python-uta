@@ -1,5 +1,5 @@
 # Project 2 — Number Guessing Game
-# Author: Ulpiana
+# Author: Ulpiana, Tuana, Adisa
 
 import random
 

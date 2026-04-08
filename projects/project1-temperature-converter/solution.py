@@ -1,5 +1,5 @@
 # Project 1 — Temperature Converter
-# Author: your name here
+# Author: Ulpiana, Tuana, Adisa
 # Date:   session date here
 #
 # Instructions:

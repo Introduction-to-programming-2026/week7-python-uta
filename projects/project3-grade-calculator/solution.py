@@ -1,5 +1,5 @@
 # Project 3 — Grade Calculator
-# Author: your name here
+# Author: Ulpiana, Tuana, Adisa
 
 scores = []
 
