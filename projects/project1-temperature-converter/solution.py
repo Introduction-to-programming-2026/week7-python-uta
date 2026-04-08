@@ -12,10 +12,10 @@
 celsius = float(input("Enter temperature in Celsius: "))
 
 # TODO: calculate fahrenheit using the formula F = (C × 9/5) + 32
-# fahrenheit = ...
+fahrenheit = (C * 9/5) + 32
 
 # TODO: print the result using an f-string
-# print(f"...")
+print(f"temperature in fahrenheit is {fahrenheit}")
 
 # ── Bonus (optional) ─────────────────────────────────────────────────────────
 # Add a direction menu (C→F or F→C)
