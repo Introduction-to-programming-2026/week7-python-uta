@@ -1,5 +1,5 @@
 # Project 5 — Mini Shopping Cart
-# Author: your name here
+# Author: Ulpiana, Tuana, Adisa
 
 menu = {
     1: ("Apple",  0.50),

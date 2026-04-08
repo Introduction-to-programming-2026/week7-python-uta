@@ -1,5 +1,5 @@
 # Project 4 — Word Counter
-# Author: your name here
+# Author: Ulpiana, Tuana, Adisa
 
 sentence = input("Enter a sentence: ")
 words = sentence.lower().split()
