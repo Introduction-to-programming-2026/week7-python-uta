@@ -23,3 +23,4 @@ print(f"Total characters (no spaces): {char_count}")
 print("\nWord Frequencies:")
 for word, count in frequency.items():
     print(f"'{word}': {count}")
+
